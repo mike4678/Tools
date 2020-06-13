@@ -1,0 +1,15 @@
+[LinkConnect]
+LinkStatus=1
+LinkID=
+[Advance]
+MaxCount=0
+Success=stop
+ProcessRunTime=0
+ProcessName=cmd.exe
+ProcessOperation=ProcessTrue
+ProcessPath=cmd.exe
+ProcessHWND=
+[Basic]
+ScriptName=拉起进程
+RuningStatus=0
+RuningTime=1000
