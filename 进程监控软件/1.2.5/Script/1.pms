@@ -1,0 +1,14 @@
+[LinkConnect]
+LinkStatus=1
+LinkID=
+[Advance]
+MaxCount=0
+Success=stop
+ProcessRunTime=0
+ProcessName=ibtsiva.exe
+ProcessOperation=ProcessTrue
+ProcessPath=cmd.exe
+[Basic]
+ScriptName=≤‚ ‘
+RuningStatus=1
+RuningTime=1000

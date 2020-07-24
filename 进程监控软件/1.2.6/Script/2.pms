@@ -1,0 +1,15 @@
+[LinkConnect]
+LinkStatus=1
+LinkID=
+[Advance]
+MaxCount=0
+Success=stop
+ProcessRunTime=0
+ProcessName=
+ProcessOperation=ProcessTrue
+ProcessPath=cmd.exe
+ProcessHWND=Administrator: C:\Windows\system32\cmd.exe
+[Basic]
+ScriptName=窗口类名查找测试
+RuningStatus=1
+RuningTime=1000
