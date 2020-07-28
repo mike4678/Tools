@@ -1,0 +1,7 @@
+[version]
+update=1.9
+infomation=1.ÐÞÕýÂ©¶´\n2.ÐÞÕý´í\n3.´íÎóÐÞÕý
+[xml]
+address=http://im.qq.com/qq.exe;http://dldir1.qq.com/qqfile/qq/QQ8.1/17255/QQ8.1.exe
+[runonce]
+run=qq.exe
