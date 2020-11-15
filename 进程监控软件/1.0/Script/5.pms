@@ -1,0 +1,15 @@
+[Basic]
+StartStatus=0
+ScriptName=Ω· ¯CMD
+RuningStatus=0
+RuningTime=1000
+[LinkConnect]
+LinkStatus=1
+LinkID=
+[Advance]
+Success=stop
+ProcessRunTime=0
+ProcessIsTrue=cmd.exe
+ProcessPath=cmd.exe
+MaxCount=5
+ProcessHWND=

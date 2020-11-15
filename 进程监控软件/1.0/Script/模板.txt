@@ -1,0 +1,17 @@
+[Basic]
+ScriptName=TestID  //名字
+StartStatus=0     //运行后是否自动运行 0不自动 1自动
+RuningStatus=0    //运行方式 0循环运行 1一次运行
+RuningTime=       //运行毫秒
+
+[Advance]
+Success=stop      //触发方式 start启动 stop停止
+ProcessRunTime=1  //已运行时间
+ProcessHWND=0     //进程句柄存在
+ProcessIsTrue=    //下列进程存在
+ProcessPath=cmd.exe    //启动或结束的进程
+MaxCount=5             //触发次数阀值，当到达此值，执行报警操作
+
+[LinkConnect]
+LinkStatus=0         //联动状态是否启用 0启用 1禁用
+LinkID=              //联动ID

@@ -1,0 +1,13 @@
+[Basic]
+StartStatus=0
+ScriptName=Test
+RuningStatus=1
+RuningTime=1000
+[LinkConnect]
+LinkStatus=0
+LinkID=≤‚ ‘»ŒŒÒ(1)
+[Advance]
+Success=start
+ProcessRunTime=2
+ProcessIsTrue=
+ProcessPath=

@@ -1,0 +1,15 @@
+[Basic]
+ScriptName=≤‚ ‘»ŒŒÒ  
+StartStatus=0     
+RuningStatus=0    
+RuningTime=1000       
+[Advance]
+Success=stop      
+ProcessRunTime=1  
+ProcessHWND=0     
+ProcessIsTrue=    
+ProcessPath=cmd.exe    
+[LinkConnect]
+LinkStatus=1         
+LinkID=              
+

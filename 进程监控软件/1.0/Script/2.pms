@@ -1,0 +1,15 @@
+[Basic]
+StartStatus=0
+ScriptName=旺宝自动处理崩溃
+RuningStatus=0
+RuningTime=1000
+[LinkConnect]
+LinkStatus=1
+LinkID=
+[Advance]
+MaxCount=10
+Success=stop
+ProcessRunTime=0
+ProcessIsTrue=Werfault.exe
+ProcessPath=GGViewer.exe|Werfault.exe
+ProcessHWND=紫光订单助手;65846

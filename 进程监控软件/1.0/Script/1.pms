@@ -1,0 +1,15 @@
+[Basic]
+StartStatus=0
+ScriptName=我赚自动退出
+RuningStatus=1
+RuningTime=5000
+[LinkConnect]
+LinkStatus=1
+LinkID=
+[Advance]
+MaxCount=0
+Success=stop
+ProcessRunTime=150
+ProcessIsTrue=wozhuan.exe
+ProcessPath=wozhuan.exe
+ProcessHWND=
